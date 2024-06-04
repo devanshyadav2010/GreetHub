@@ -1,0 +1,30 @@
+{
+  "name": "Devansh Yadav",
+  "version": "1.0.0",
+  "description": "GreetHub is an open-source Discord welcome bot developed using discord.js v14. It provides a seamless and customizable way to greet new members as they join your server, making them feel welcome and informed right from the start.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Devansh Yadav",
+  "devDependencies": {
+    "node": "^21.7.3"
+  },
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.6",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.7.2",
+    "box-console": "^2.0.0",
+    "colors": "^1.4.0",
+    "discord.js": "^14.15.3",
+    "greetify": "^1.0.1",
+    "hastebin-gen": "^2.0.5",
+    "mongoose": "^8.4.1",
+    "topgg-autoposter": "^2.0.2"
+  },
+  "repository": {
+    "type": "discord",
+    "url": "https://discord.gg/pXRT2FusPb"
+  }
+}
