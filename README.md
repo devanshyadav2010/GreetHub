@@ -1,6 +1,7 @@
-# GreetHub
+<h1 align="center"> GreetHub </h1>
 
-![Banner](https://cdn.treobot.me/20240604_115918.jpg)
+<img align="center" src="https://cdn.treobot.me/20240604_115918.jpg">
+
 
 [![Discord](https://img.shields.io/discord/974995947379646534?label=Discord&logo=discord)](https://discord.com/invite/fDrwgNG5UN)
 [![GitHub stars](https://img.shields.io/github/stars/devanshyadav2010/greethub?style=social)](https://github.com/yourusername/greethub)
